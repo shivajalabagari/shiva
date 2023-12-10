@@ -1,0 +1,12 @@
+11/11
+============
+Alternatives Link
+
+https://www.tutorialspoint.com/compile_scala_online.php
+
+
+https://www.jdoodle.com/compile-scala-online/
+
+https://onecompiler.com/scala 
+
+tar -xvf spark-2.4.7-bin-hadoop2.7.tgz
