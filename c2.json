@@ -1,0 +1,11 @@
+{
+    "org": "zeyo",
+    "trainer": "sai",
+    "year": 2018,
+    "zeyoaddress": {
+    	"user":{
+        	"permanentAddress": "Hyderabad",
+        	"temporaryAddress": "Chennai"
+        }
+    }
+}

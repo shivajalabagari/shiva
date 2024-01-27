@@ -1,0 +1,4 @@
+﻿{"custid": "cust007","address":{"temporaryAddress":"ind","permanentAddress": "US"},"products":["pencil","Pen"]} 
+{"custid": "cust008","address":{"temporaryAddress":"ind","permanentAddress": "US"},"products":["pencil","Pen"]} 
+{"custid": "cust009", "address":{"temporaryAddress": "US", "permanentAddress": "UK"},"products": [ "Ink", "Wire"]}
+{"custid": "cust0010", "address":{"temporaryAddress": "UK", "permanentAddress": "India"},"products": [ "Pen", "paper"]}

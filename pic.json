@@ -1,0 +1,10 @@
+{
+    "id": "000",
+    "type": "donut",
+    "name": "Non cream",
+    "image": {
+        "url": "images/0001.jpg",
+        "width": 200,
+        "height": 200
+    }
+}

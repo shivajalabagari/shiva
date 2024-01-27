@@ -1,0 +1,4 @@
+﻿
+{"custid": "cust002","address":{"temporaryAddress":"Bangalore","permanentAddress": "Chennai"},"products":["Bag","Pen"]} 
+{"custid": "cust003", "address":{"temporaryAddress": "Hyderabad", "permanentAddress": "Pune"},"products": [ "Ink", "Wire"]}
+{"custid": "cust004", "address":{"temporaryAddress": "Kolkatta", "permanentAddress": "Hyderabad"},"products": [ "Pen", "paper"]}
